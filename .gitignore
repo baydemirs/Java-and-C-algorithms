@@ -1,0 +1,15 @@
+# NetBeans ve Java derleme çıktıları
+**/build/
+**/dist/
+**/out/
+**/*.class
+**/*.jar
+**/nbproject/private/
+
+# IDE ve işletim sistemi dosyaları
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+.tmp.driveupload/
+
